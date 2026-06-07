@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: niggemyer46@hotmail.com
+- Phone: +17405820276
+- Phone (tel): tel:+17405820276
+- Address: 103 Jefferson Ave, 43986-9802, Ohio , 43986-9802, USA
 
 ### Contact form
 - URL: https://example.com/contact
