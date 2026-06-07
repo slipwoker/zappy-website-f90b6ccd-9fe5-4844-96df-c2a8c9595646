@@ -1,0 +1,78 @@
+# SMN Bookkeeping — Generative Engine Optimization Map
+
+> SMN Bookkeeping is a professional bookkeeping and financial services business. The brand name suggests a personalized or founder-led practice, likely offering accounting, financial record management, and related services to businesses or individuals.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Get crystal-clear financial records with SMN Bookkeeping. Our double entry bookkeeping in accounting catches errors before they cost you. Start your free consultation today!
+
+### Services
+https://example.com/services
+Stop drowning in receipts. Our small business bookkeeping service handles your double entry accounting, reconciliations, and reports so you can focus on growth. Explore our plans now.
+
+### About
+https://example.com/about
+SMN Bookkeeping is a founder-led practice built on precision and trust. We combine double entry bookkeeping in accounting with personalized service that scales with your business. Meet our team.
+
+### Contact
+https://example.com/contact
+Ready for stress-free accounting services for small business? Reach out to SMN Bookkeeping today and let&#39;s build a double entry system that finally makes sense. Send us a message.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About SMN Bookkeeping
+SMN Bookkeeping is a professional bookkeeping and financial services business. The brand name suggests a personalized or founder-led practice, likely offering accounting, financial record management, and related services to businesses or individuals.
+
+## Target Audience
+- Small Business Owners
+- Freelancers and Gig Workers
+- Startup Founders
+
+## Industry
+Accounting & Bookkeeping
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
